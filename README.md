@@ -35,6 +35,23 @@ Our models are benchmarked on multiple metrics (Accuracy, Precision, Recall, F1,
 
 ---
 
-## 4. License
+## 4. Reproducibility Notes
+	•	All random processes were seeded using random_state=42.
+	•	All models were trained using the same preprocessing pipeline (ColumnTransformer + StandardScaler + OneHotEncoder).
+	•	Dataset splitting was fixed at 80% training and 20% testing for consistent evaluation.
+	•	SMOTE oversampling was applied only to the training set to prevent data leakage.
+
+---
+## 5. Responsible AI Declaration
+
+Generative AI tools (e.g., ChatGPT) were used only for:
+	•	Debugging code
+All outputs were manually verified for accuracy and correctness.
+No confidential or proprietary data was uploaded to any external system.
+---
+
+## 6. License
 © 2025 University of Bristol – For academic use only.
 Unauthorized reproduction or redistribution of this repository is prohibited under University regulations.
+
+
