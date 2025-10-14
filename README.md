@@ -43,11 +43,11 @@ Our models are benchmarked on multiple metrics (Accuracy, Precision, Recall, F1,
 
 ---
 ## 5. Responsible AI Declaration
-
 Generative AI tools (e.g., ChatGPT) were used only for:
 	•	Debugging code
-All outputs were manually verified for accuracy and correctness.
-No confidential or proprietary data was uploaded to any external system.
+
+	All outputs were manually verified for accuracy and correctness.
+	No confidential or proprietary data was uploaded to any external system.
 ---
 
 ## 6. License
