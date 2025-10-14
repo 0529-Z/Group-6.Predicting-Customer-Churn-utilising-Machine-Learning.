@@ -28,8 +28,8 @@ Our models are benchmarked on multiple metrics (Accuracy, Precision, Recall, F1,
 ---
 
 ## 3. Repository Structure  
-├── modeling_pipeline.ipynb          # Main Jupyter Notebook with all models and outputs
-├── modeling_pipeline.html            # Exported HTML (for reproducibility)
+├── Assessment1.ipynb          # Main Jupyter Notebook with all models and outputs
+├── Assessmnet1.html            # Exported HTML (for reproducibility)
 ├── requirements.txt                  # Dependency list
 ├── README.md                         # Project documentation (this file)
 
