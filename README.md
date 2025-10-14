@@ -1,5 +1,4 @@
 # Group-6.Predicting-Customer-Churn-utilising-Machine-Learning.
-# Customer Churn Prediction Project  
 **University of Bristol | MGRC20007 - Machine Learning for Data-Driven Business Decision Making**
 
 ---
@@ -28,16 +27,14 @@ Our models are benchmarked on multiple metrics (Accuracy, Precision, Recall, F1,
 
 ---
 
-## 3. Team Members  
-
-| Name | Role | Responsibilities |
-|------|------|------------------|
-| **Parker** | Lead Analyst | Feature engineering, model development (LR, RF, XGB), SMOTE balancing, pipeline integration, explainability |
-| **Karolina** | Data Analyst | Data exploration, EDA visualisation, feature summary |
-| **Yiqi Cheng** | Fairness & SHAP Analyst | Explainability analysis (SHAP), fairness check by gender and geography |
-| **Shuaibo Wang** | Business Analyst | Business insight translation, retention KPI design, responsible banking |
-| **Guangyuan An** | Report Editor | Conclusion, report formatting, final integration |
+## 3. Repository Structure  
+├── modeling_pipeline.ipynb          # Main Jupyter Notebook with all models and outputs
+├── modeling_pipeline.html            # Exported HTML (for reproducibility)
+├── requirements.txt                  # Dependency list
+├── README.md                         # Project documentation (this file)
 
 ---
 
-## 4. Repository Structure  
+## 4. License
+© 2025 University of Bristol – For academic use only.
+Unauthorized reproduction or redistribution of this repository is prohibited under University regulations.
